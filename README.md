@@ -1,2 +1,1 @@
-# CICD_TEST_01
-CICD_TEST_01
+# XunitSamples
